@@ -1,1 +1,1 @@
-{% include sections.html %} 
+{% sections.html %} 
